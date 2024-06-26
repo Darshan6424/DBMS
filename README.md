@@ -4,7 +4,7 @@ This repository contains my daily journals for learning Database Management Syst
 
 ## Table of Contents
 
-- [Day 3: Database Management System](day-3-journal.md)
+- [Day 3: Database Management System](day-3.md)
 
 ---
 
