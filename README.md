@@ -8,6 +8,5 @@ This repository contains my daily journals for learning Database Management Syst
 
 ---
 
-Welcome to my DBMS Learning Journal. In this repository, you will find detailed journal entries documenting my daily learning progress in the field of Database Management Systems. Each entry covers various topics and concepts in DBMS, providing detailed explanations and visual aids.
-
+Hey welcome to this repositories, you will find my daily sort of jjournal regarding my journey in learning this dbms with projects in upcoming future as well
 Stay tuned for more updates as I continue my learning journey.
