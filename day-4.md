@@ -165,4 +165,5 @@ Let’s break down the different types of keys using the **Students** and **Stud
 | **Alternate Key**| A candidate key not chosen as the primary key            | `PANNumber` in Students Table           | Provides additional unique ways to identify records.        |
 | **Artificial Key**| A key created specifically to uniquely identify records | `ID` (auto-incremented)                  | Ensures a unique identifier even if there is no natural key.|
 
+[**Go back to homepage**](readme.md)
 
