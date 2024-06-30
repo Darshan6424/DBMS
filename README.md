@@ -1,6 +1,6 @@
 # DBMS Learning Journal
 
-This repository contains my daily works done in learning Database Management Systems (DBMS)
+This repository contains assignment and projects carried out during learning of Database Management Systems (DBMS)
 
 ## Table of Contents
 
