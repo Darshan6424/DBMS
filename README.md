@@ -1,12 +1,11 @@
 # DBMS Learning Journal
 
-This repository contains my daily journals for learning Database Management Systems (DBMS) in school.
+This repository contains my daily works done in learning Database Management Systems (DBMS)
 
 ## Table of Contents
 
-- [Day 3: Database Management System](day-3.md)
+- [Day 3: Database Management System Terminologies](day-3.md)
+- [Day 4: Keys and its various types](day-4.md)
 
 ---
-
-Hey welcome to this repositories, you will find my daily sort of jjournal regarding my journey in learning this dbms with projects in upcoming future as well
-Stay tuned for more updates as I continue my learning journey.
+**Welcome to the repo!!**
