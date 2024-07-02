@@ -81,7 +81,6 @@ Hey there, So, Today's assignment is to kind of get familiar with basic things l
 5. **Save:** Click **Save**.
 6. **Access Your Site:** Your site will be published at `https://<username>.github.io/<repository>`.
 
-**Pro Tip:** GitHub Pages is a fantastic way to showcase your projects. Share your live sites with the world!
 
 ## Conclusion
 
