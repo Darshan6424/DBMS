@@ -7,7 +7,7 @@ This repository contains assignment and projects carried out during learning of 
 - [Day 3: Database Management System Terminologies](day-3.md)
 - [Day 4: Keys and its various types](day-4.md)
 - [Day 5: SQL queries Keywords](day-5.md)
-- [Day 5: Setting up github with vscode](day-6.md)
+- [Day 6: Setting up github with vscode](day-6.md)
 
 ---
 **Welcome to the repo!!**
