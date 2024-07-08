@@ -9,6 +9,7 @@ This repository contains assignment and projects carried out during learning of 
 - [SQL queries Keywords](day-5.md)
 - [Setting up XAMPP](xampp.md)
 - [Setting up github with vscode](day-6.md)
+- [DML commands](dml.md)
 
 ---
 **Welcome to the repo!!**
