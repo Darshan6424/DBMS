@@ -11,8 +11,7 @@ It is crucial for any organization to understand the role of database administra
 ---
 ### Identify the Domains
 
-The first step as DBAs is to **identify the different domains** where the database will be used. This means understanding the 
-different scope where our database is going to be used. By knowing in which sector we are working we can break down the data into different categories or tables in a well mannered structure.
+The first step as DBAs is to **identify the different domains** where the database will be used. This means understanding the different scope where our database is going to be used. By knowing in which sector we are working we can break down the data into different categories or tables in a well mannered structure.
 
 **Example:** <span style="font-size:18px;"> `If it is a bank, then we might need different tables for amount, transaction time, customer, pin, etc. But if it is for a library, we might have books, IDs, their authors, editions, release dates, publications, prices, etc. `</span>
 

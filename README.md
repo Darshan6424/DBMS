@@ -11,6 +11,7 @@ This repository contains assignment and projects carried out during learning of 
 - [Setting up github with vscode](day-6.md)
 - [DML commands](dml.md)
 - [DBMS Adminstrator and their roles](dbms_admins_roles.md)
+- [C-Programming function types](c_functions.md)
 
 ---
 **Welcome to the repo!!**
