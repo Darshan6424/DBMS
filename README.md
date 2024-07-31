@@ -12,7 +12,7 @@ This repository contains assignment and projects carried out during learning of 
 - [DML commands](dml.md)
 - [DBMS Adminstrator and their roles](dbms_admins_roles.md)
 - [C-Programming function types](c_functions.md)
--[DBMS models and types of relationship](dbms_rel_model.md)
+- [DBMS models and types of relationship](dbms_rel_model.md)
 
 ---
 **Welcome to the repo!!**
